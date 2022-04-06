@@ -1,1 +1,0 @@
-const e={key:"v-add0ddb6",path:"/reference/frontend/%EC%84%A4%EC%A0%95Babel.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"reference/frontend/\uC124\uC815Babel.md"};export{e as data};

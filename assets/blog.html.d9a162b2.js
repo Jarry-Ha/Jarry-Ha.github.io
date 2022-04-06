@@ -1,1 +1,0 @@
-import{_ as e,o,c as t,a,b as s}from"./app.c78821e8.js";const c={},_={id:"about-blog",tabindex:"-1"},r=a("a",{class:"header-anchor",href:"#about-blog","aria-hidden":"true"},"#",-1),n=s(" About Blog"),d=[r,n];function l(h,i){return o(),t("h1",_,d)}var f=e(c,[["render",l],["__file","blog.html.vue"]]);export{f as default};
