@@ -1,0 +1,1 @@
+const e={key:"v-5bb545a8",path:"/reference/useful_method.html",title:"\uBB38\uC81C\uD480\uC774 \uC720\uC6A9\uD55C \uD568\uC218\uB4E4",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"reference/useful_method.md"};export{e as data};

@@ -1,1 +1,0 @@
-const e={key:"v-40740493",path:"/reference/frontend/html_tag.html",title:"HTML Tag: Full Name",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\uD0DC\uADF8 \uC120\uD638\uB3C4",slug:"\u1110\u1162\u1100\u1173-\u1109\u1165\u11AB\u1112\u1169\u1103\u1169",children:[]}],git:{},filePathRelative:"reference/frontend/html_tag.md"};export{e as data};
