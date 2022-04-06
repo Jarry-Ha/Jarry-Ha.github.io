@@ -1,4 +1,4 @@
-import{_ as n,d as a}from"./app.add7f421.js";var e="/assets/html_tag_prior.4975a7f6.png";const s={},r=a(`<h1 id="html-tag-full-name" tabindex="-1"><a class="header-anchor" href="#html-tag-full-name" aria-hidden="true">#</a> HTML Tag: Full Name</h1><div class="language-html ext-html line-numbers-mode"><pre class="language-html"><code>a (href): Anchor (Hypertext Refernce)
+import{_ as n,d as a}from"./app.52268ddb.js";var e="/assets/html_tag_prior.4975a7f6.png";const s={},r=a(`<h1 id="html-tag-full-name" tabindex="-1"><a class="header-anchor" href="#html-tag-full-name" aria-hidden="true">#</a> HTML Tag: Full Name</h1><div class="language-html ext-html line-numbers-mode"><pre class="language-html"><code>a (href): Anchor (Hypertext Refernce)
 div: Division
 p: Paragraph
 h1~h6: header1~header6
